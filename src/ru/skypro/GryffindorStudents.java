@@ -2,8 +2,7 @@ package ru.skypro;
 
 public class GryffindorStudents extends HogwartsStudents {
 
-    GryffindorStudents[] studentsGryffindor;
-    GryffindorStudents student;
+
     private int nobility; // блогородство
     private int honor; //честь
     private int bravery;//храбрость
